@@ -1,0 +1,49 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: HoneyDew;
+}
+
+.content {
+  margin: auto;
+  width: 90%;
+}
+
+.content .font-awesome {
+  font-size: 1.5em;
+  color: black;
+}
+
+.content .font-awesome:visited {
+  color: black;
+}
+
+.content p .heading {
+  font-size: 2em;
+}
+
+.content p .second-heading {
+  font-size: 1.5em;
+}
+
+.content span {
+  font-size: .75em;
+}
+
+.content .buttons {
+  text-align: center;
+}
+
+.buttons form {
+  display: inline-block;
+}
+
+form input {
+  margin: 1em;
+  padding: .5em;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+  background-color: Azure;
+  border-radius: .5em;
+  border: 1px solid Gray;
+  color: black;
+}
